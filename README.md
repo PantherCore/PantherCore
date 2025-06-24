@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Priyansh </h1>
-<h3 align="center">A passionate 🐍 Python Developer </h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#007ACC">Priyansh </span>A passionate Python developer </h1>
 
 ---
 
@@ -43,12 +42,6 @@
 ![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshuthakur&show_icons=true&theme=radical)
 
 ---
-
-### 📫 Contact Me
-
-- 📧 Email: [123piyanshuthakur@gmail.com]
-- 🌐 LinkedIn: [https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BUcqiApwDTVyL6SFCYcznig%3D%3D]
-- 📍 Based in: Hyderabad, India
 
 
 
