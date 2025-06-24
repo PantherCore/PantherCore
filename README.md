@@ -23,11 +23,11 @@
 
 ### 🛠️ Languages and Tools:
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) [Python](https://www.python.org/)
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) [VS Code](https://code.visualstudio.com/)
-- ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white) [Sublime Text](https://www.sublimetext.com/)
-- ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white) [Google Colab](https://colab.research.google.com/)
-- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) [Jupyter Notebook](https://jupyter.org/)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
+- ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white)
+- ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
+- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 - ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
