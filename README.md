@@ -1,4 +1,57 @@
-## Hi there 👋
+
+<h1 align="center">Hi 👋, I'm Priyansh </h1>
+<h3 align="center">A passionate 🐍 Python Developer </h3>
+
+---
+
+### 🙋‍♂️ About Me
+
+- 🎓 B.Tech in Computer Science
+- 🧠 Python trainee at Elearn Infotech
+- 💻 Learning by building projects
+- 🌱 Outside of coding, I enjoy playing tennis and swimming — they keep me focused, healthy, and energized!
+
+---
+
+### 🧠 Currently Learning
+
+- Python (Core + OOP + File Handling + Libraries + Django)
+- Git & GitHub collaboration
+- Exploring web development basics
+
+---
+
+### 🛠️ Languages and Tools:
+
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) [Python](https://www.python.org/)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) [VS Code](https://code.visualstudio.com/)
+- ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white) [Sublime Text](https://www.sublimetext.com/)
+- ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white) [Google Colab](https://colab.research.google.com/)
+- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) [Jupyter Notebook](https://jupyter.org/)
+- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+---
+
+### 📌 Pinned Projects
+
+> Check out some of the projects I'm working on below!
+
+---
+
+### 📈 GitHub Stats (Optional)
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshuthakur&show_icons=true&theme=radical)
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [123piyanshuthakur@gmail.com]
+- 🌐 LinkedIn: [https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BUcqiApwDTVyL6SFCYcznig%3D%3D]
+- 📍 Based in: Hyderabad, India
+
+
+
 
 <!--
 **PantherCore/PantherCore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
