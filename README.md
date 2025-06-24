@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm <span style="color:#007ACC">Priyansh </span>A passionate Python developer </h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#22c5d4">Priyansh </span>A passionate Python developer </h1>
 
 ---
 
